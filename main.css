@@ -1,0 +1,21 @@
+h1{
+    font-size: 2.0rem;
+    color: darkorange;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline overline;
+}
+h2{
+    font-size: 1.5rem;
+    color: black;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline overline;
+}
+h3{
+    font-size: 1.1rem;
+    color: darkred;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline overline;
+}
